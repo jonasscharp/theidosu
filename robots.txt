@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eicaphowei.lasteam.net/sitemap.xml
